@@ -33,7 +33,7 @@ Stripe / Razorpay for secure online transactions
 Other Technologies:
 Firebase (for notifications)
 Cloudinary (for image storage)
-📸 Screenshots
+📸 Screenshot
 Homepage
 Order Tracking
 
